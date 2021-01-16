@@ -1,0 +1,33 @@
+.card{
+    align-items: center;
+    background-size: cover;
+    background-position: center;
+    border: 0;
+}
+.card-img{
+    width: 300px;
+    height:200px;
+    opacity: 0;
+}
+.card-img-overlay{
+    opacity:0;
+    color: aliceblue;
+}
+
+.card-img-overlay:hover{
+    backdrop-filter: blur(8px);
+    animation:fade 200ms ease-in both;
+}
+.card-title{
+    text-shadow: 0 0 4px #000;
+}
+.card-text{
+    text-align: left;
+    color:#fbf6f0;
+    text-shadow: 0 0 4px #000;
+}
+
+@keyframes fade{
+    0%{opacity:0}
+    100%{opacity:1}
+}
