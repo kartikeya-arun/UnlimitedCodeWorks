@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/UnlimitedCodeWorks/static/css/main.fcc44a66.chunk.css",
+    "main.js": "/UnlimitedCodeWorks/static/js/main.e151bb65.chunk.js",
+    "main.js.map": "/UnlimitedCodeWorks/static/js/main.e151bb65.chunk.js.map",
+    "runtime-main.js": "/UnlimitedCodeWorks/static/js/runtime-main.1e5590f8.js",
+    "runtime-main.js.map": "/UnlimitedCodeWorks/static/js/runtime-main.1e5590f8.js.map",
+    "static/js/2.32ce15a6.chunk.js": "/UnlimitedCodeWorks/static/js/2.32ce15a6.chunk.js",
+    "static/js/2.32ce15a6.chunk.js.map": "/UnlimitedCodeWorks/static/js/2.32ce15a6.chunk.js.map",
+    "static/js/3.ad274047.chunk.js": "/UnlimitedCodeWorks/static/js/3.ad274047.chunk.js",
+    "static/js/3.ad274047.chunk.js.map": "/UnlimitedCodeWorks/static/js/3.ad274047.chunk.js.map",
+    "index.html": "/UnlimitedCodeWorks/index.html",
+    "static/css/main.fcc44a66.chunk.css.map": "/UnlimitedCodeWorks/static/css/main.fcc44a66.chunk.css.map",
+    "static/js/2.32ce15a6.chunk.js.LICENSE.txt": "/UnlimitedCodeWorks/static/js/2.32ce15a6.chunk.js.LICENSE.txt",
+    "static/media/expressjs.890c1bd9.png": "/UnlimitedCodeWorks/static/media/expressjs.890c1bd9.png",
+    "static/media/mongoDB.06f6ca45.png": "/UnlimitedCodeWorks/static/media/mongoDB.06f6ca45.png",
+    "static/media/nodejs.fb847427.png": "/UnlimitedCodeWorks/static/media/nodejs.fb847427.png",
+    "static/media/placeholder.74f7ff06.jpg": "/UnlimitedCodeWorks/static/media/placeholder.74f7ff06.jpg",
+    "static/media/react.c8f929cb.png": "/UnlimitedCodeWorks/static/media/react.c8f929cb.png",
+    "static/media/home.css": "/UnlimitedCodeWorks/static/media/texgyreadventor-bold-webfont.b09ade75.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e5590f8.js",
+    "static/js/2.32ce15a6.chunk.js",
+    "static/css/main.fcc44a66.chunk.css",
+    "static/js/main.e151bb65.chunk.js"
+  ]
+}
