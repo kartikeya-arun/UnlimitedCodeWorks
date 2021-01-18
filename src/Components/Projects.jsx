@@ -32,7 +32,7 @@ export default function Projects(){
       } else {
         return (
           <section className='projects'>
-            <h3 className='title'>Some of my Work:</h3>
+            <h3 className='title'>My portfolio:</h3>
             {/* <p>Check out my Work.</p> */}
             <hr></hr>
             <div>
