@@ -12,14 +12,14 @@ export default function Buttons(props){
     else if(more===''){
         return(
             <div className='buttons'>
-                <a href={url} className="btn btn-primary">Demo</a>
+                <a href={url} className="btn btn-primary">See Demo</a>
             </div>
         )
     }
     else{
         return(
             <div className='buttons'>
-                <a href={url} className="btn btn-primary">Demo</a>
+                <a href={url} className="btn btn-primary">See Demo</a>
                 <a href={more} className="btn btn-info">Read More</a>
             </div>
         )
