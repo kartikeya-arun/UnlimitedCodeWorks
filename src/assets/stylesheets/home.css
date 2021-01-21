@@ -26,7 +26,7 @@
   color: #555;
   min-width: 350px;
   }
-  
+
   ul,
   nav {
   list-style: none;
@@ -59,7 +59,7 @@
   }
   
   section:not(.hero):nth-child(even) {
-  background-color: #ffda77;
+  background-color: #e8e8e8;
   }
   
   .grid {
@@ -72,7 +72,7 @@
   hr {
   width: 250px;
   height: 3px;
-  background-color: #3f51b5;
+  background-color: #30475e;
   border: 0;
   margin-bottom: 50px;
   }
@@ -205,6 +205,7 @@
   @media (max-width: 800px) {
   .hero {
     min-height: 600px;
+    justify-content: center;
   }
   
   .hero h1 {
@@ -340,7 +341,7 @@
   display: flex;
   align-items: center;
   justify-content: space-around;
-  background-color: #aee6e6;
+  background-color: #222831;
   color: #fff;
   padding: 20px 0;
   }
@@ -373,7 +374,11 @@
   footer ul li {
     margin: 0 8px;
   }
-  } 
+  }
+  
+  footer a:hover{
+    color: #f05454;
+  }
   #linkedin:hover{
     color: #fff;
     text-shadow: 0 0 8px #0072b1,0 0 12px #5092b5;
