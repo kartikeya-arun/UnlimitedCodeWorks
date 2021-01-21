@@ -201,6 +201,9 @@
     .hero h1{
       font-size: 120px;
     }
+    .hero{
+      justify-content: space-around;
+    }
   }
   @media (max-width: 800px) {
   .hero {
