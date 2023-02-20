@@ -9,7 +9,8 @@ export default function Projects(){
     const [projects,setProjects]=useState([]);
     
     useEffect(() => {
-        fetch("https://unlimited-code-works-server.herokuapp.com/api/projects")
+        // fetch("https://unlimited-code-works-server.herokuapp.com/api/projects")
+        fetch("https://funny-handkerchief-pig.cyclic.app/api/projects")
           .then(res => res.json())
           .then(
             (result) => {
